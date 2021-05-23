@@ -1,2 +1,2 @@
 # INeuron.Ai-Assignments
-This repository is for iNeuron DLCVNLP course Assignments .
+This repository is for iNeuron ML/DL course Assignments .
